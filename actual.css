@@ -39,8 +39,8 @@
 --color-tableTextHover: #829ab1;
 --color-tableBorderSelected: #68622b;
 --color-tableBorderSeparator: #829ab1;
---color-tableRowBackgroundHighlight: #580a94;
---color-tableRowBackgroundHighlightText: #d9e2ec;
+--color-tableRowBackgroundHighlight: #43382d;
+--color-tableRowBackgroundHighlightText: #fff;
 
 --color-sidebarBackground: #00304d;
 --color-sidebarBudgetName: #d9e2ec;
@@ -171,10 +171,10 @@
 --color-formInputTextPlaceholder: #d9e2ec;
 --color-formInputTextPlaceholderSelected: #e8ecf0;
 --color-formInputTextSelection: #243b53;
---color-checkboxText: #000000;
---color-checkboxBackgroundSelected: #cc79a7;
---color-checkboxBorderSelected: #cc79a7;
---color-checkboxShadowSelected: #8719e0;
+--color-checkboxText: #fff;
+--color-checkboxBackgroundSelected: #000;
+--color-checkboxBorderSelected: #434343;
+--color-checkboxShadowSelected: #000;
 --color-checkboxToggleBackground: #242733;
 --color-checkboxToggleBackgroundSelected: #e69f00;
 --color-checkboxToggleDisabled: #747c8b;
@@ -229,5 +229,24 @@
 --color-mobileAccountShadow: #334e68;
 --color-mobileAccountText: #d9e2ec;
 --color-mobileTransactionSelected: #d9e2ec;
+
+--color-numberPositive: #1affc2;
+--color-numberNegative: #ff6f00;
+--color-numberNeutral: #627d98;
+--color-budgetNumberNegative: #ff6f00; /* numberNegative; */
+--color-budgetNumberZero: hsl(0,0%,40%); /* tableTextSubdued; */
+--color-budgetNumberNeutral: #d9e2ec; /* pageText; */
+--color-budgetNumberPositive: #1affc2; /* budgetNumberNeutral; */
+--color-templateNumberFunded: #1affc2; /* numberPositive; */
+--color-templateNumberUnderFunded: #f0e442;
+
+--color-reportsNumberNegative: #ff6f00; /* reportsRed; */
+--color-reportsNumberNeutral: #d9e2ec; /* pageText; */
+--color-reportsNumberPositive: #3ebd93; /* reportsGreen; */
+
+--color-toBudgetPositive: #1affc2;
+--color-toBudgetNegative: #ff6f00;
+--color-toBudgetZero: #1affc2;
+
 
 }
