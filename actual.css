@@ -150,9 +150,9 @@
 --color-errorTextMenu: #ff9b9b;
 --color-errorBorder: #ff6f00;
 
---color-upcomingText: #000000;
---color-upcomingBorder: #cc79a7;
---color-upcomingBackground: #cc79a7;
+--color-upcomingText: #a92da3;
+--color-upcomingBorder: #8e258a;
+--color-upcomingBackground: hsl(303, 61%, 93%);
 
 --color-formInputBorder: #838383;
 --color-formInputBorderSelected: #e69f00;
