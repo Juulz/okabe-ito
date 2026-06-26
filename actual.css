@@ -43,7 +43,6 @@
 --color-tableRowBackgroundHighlightText: #fff;
 
 --color-sidebarBackground: #00304d;
---color-sidebarBudgetName: #d9e2ec;
 --color-sidebarItemAccentSelected: #e69f00;
 --color-sidebarItemBackgroundHover: #434343;
 --color-sidebarItemText: #d9e2ec;
@@ -52,6 +51,10 @@
 --color-sidebarItemBackgroundPending: #f0e442;
 --color-sidebarItemBackgroundPositive: #009e73;
 --color-sidebarItemBackgroundFailed: #cc79a7;
+--color-sidebarBudgetName: #ffb61a;
+--color-tableTextItemAdded: #ffb61a;
+--color-sidebarItemTextUpdated: #ffb61a;
+  
 
 --color-menuItemText: #d9e2ec;
 --color-menuItemTextSelected: #d9e2ec;
