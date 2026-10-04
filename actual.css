@@ -2,6 +2,9 @@
 
 :root {
 
+--color-sidebarHeaderText: var(--color-sidebarBudgetName);
+--color-sidebarBrand: var(--color-sidebarBudgetName);
+  
 --color-pageBackground: #222222;
 --color-pageText: #d9e2ec;
 --color-pageTextLight: #bbe1f6;
